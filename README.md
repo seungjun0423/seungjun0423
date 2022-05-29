@@ -1,14 +1,13 @@
-### Hi Welcome to my github 👋
+
+
+
+<h1> Hi, I'm seungjun0423 welcome to my github!</h1>
 <img align="center" src="https://user-images.githubusercontent.com/87581422/170853049-f7b3c723-6d54-4740-ad9c-756d5e735179.svg" width="200"/>
-
-
-
-<h1> Hi, I'm seungjun0423</h1>
 
 <p>
   <em>
     <h3>
-        seungjun0423 
+        FE 
       </a>
     </h3>
   </em>
@@ -37,9 +36,11 @@
 <br/>
 
 <h2>My interested in</h2>
-Blockchain
-<br/>
-NFT
+  <h3>Blockchain
+    <br/>
+    <br/>
+      NFT
+  <h3 />
 <br/>
 <br/>
 
