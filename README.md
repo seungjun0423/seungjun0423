@@ -1,7 +1,7 @@
 
 
 
-<h1> Hi, I'm seungjun0423 welcome to my github!</h1>
+<h1> Hi, Welcome to my github!</h1>
 <img align="center" src="https://user-images.githubusercontent.com/87581422/170853049-f7b3c723-6d54-4740-ad9c-756d5e735179.svg" width="200"/>
 
 <p>
