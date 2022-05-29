@@ -1,5 +1,5 @@
 ### Hi Welcome to my github 👋
-<img align="center" src="https://user-images.githubusercontent.com/87581422/170853049-f7b3c723-6d54-4740-ad9c-756d5e735179.svg" width="500"/>
+<img align="center" src="https://user-images.githubusercontent.com/87581422/170853049-f7b3c723-6d54-4740-ad9c-756d5e735179.svg" width="300"/>
 
 
 
