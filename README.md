@@ -37,7 +37,9 @@
 <br/>
 
 <h2>My interested in</h2>
-
+Blockchain
+<br/>
+NFT
 <br/>
 <br/>
 
