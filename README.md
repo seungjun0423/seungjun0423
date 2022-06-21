@@ -33,6 +33,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![REDUX](https://img.shields.io/badge/-REDUX-ffffff?style=for-the-badge&logo=redux&logoColor=purple)
+![SOLIDITY](https://img.shields.io/badge/-SOLIDITY-black?style=for-the-badge&logo=solidity&logoColor=ffffff)
 
 
 <br/>
