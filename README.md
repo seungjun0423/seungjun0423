@@ -12,6 +12,7 @@
     Want to be rational and logical person <br>
     Like reading books especially about social science and science <br>
     Big fan of bitcoin, ethereum and decentralized economy <br>
+    Interested in Computer Science <br> 
     
   </em>
   <em>
