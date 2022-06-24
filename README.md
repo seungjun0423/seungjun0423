@@ -41,19 +41,4 @@
 ![SOLIDITY](https://img.shields.io/badge/-SOLIDITY-black?style=for-the-badge&logo=solidity&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-
-
-<br/>
-
-<h2>I'm interested in</h2>
-  <h3>Blockchain
-    <br/>
-    <br/>
-      NFT
-  <h3 />
-<br/>
-<br/>
-
 ---
