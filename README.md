@@ -41,4 +41,7 @@
 ![SOLIDITY](https://img.shields.io/badge/-SOLIDITY-black?style=for-the-badge&logo=solidity&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Polygon](https://img.shields.io/badge/-polygon-black?style=for-the-badge&logo=polygon&logoColor=ffffff)
+
+
 ---
