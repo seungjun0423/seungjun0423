@@ -7,7 +7,8 @@
 <p>
   <em>
     1994.04.23 born in Sangju Korea <br>
-    Living Seoul now <br>
+    Graduate Kookmin university <br>
+    Living Seoul <br>
     Front End engineer <br>
     Want to be rational and logical person <br>
     Like reading books especially about social science and science <br>
