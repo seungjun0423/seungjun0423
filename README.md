@@ -6,13 +6,12 @@
 
 <p>
   <em>
-    1994.04.23 born in Sangju Korea <br>
+    1994.04.23 born in Korea <br>
     Graduate Kookmin university <br>
     Living Seoul <br>
     Front End engineer <br>
     Want to be rational and logical person <br>
     Like reading books especially about social science and science <br>
-    Big fan of bitcoin, ethereum and decentralized economy <br>
     Interested in computer science <br> 
     Learning about hardware structure <br> 
     
