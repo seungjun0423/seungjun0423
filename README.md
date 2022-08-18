@@ -7,7 +7,7 @@
 <p>
   <em>
     1994.04.23 born in Korea <br>
-    Graduate Kookmin university <br>
+    Graduated Kookmin university <br>
     Living Seoul <br>
     Front End engineer <br>
     Want to be rational and logical person <br>
