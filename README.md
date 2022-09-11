@@ -34,9 +34,10 @@
 ![REDUX](https://img.shields.io/badge/-REDUX-ffffff?style=for-the-badge&logo=redux&logoColor=purple)
 ![AXIOS](https://img.shields.io/badge/-AXIOS-purple?style=for-the-badge&logo=axios&logoColor=)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
- <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
- <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+![Python]<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+![Django]<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
+ 
 
 
 <h3>I'm interested in </h3>
@@ -46,6 +47,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 
 ---
