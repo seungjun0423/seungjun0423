@@ -34,8 +34,8 @@
 ![REDUX](https://img.shields.io/badge/-REDUX-ffffff?style=for-the-badge&logo=redux&logoColor=purple)
 ![AXIOS](https://img.shields.io/badge/-AXIOS-purple?style=for-the-badge&logo=axios&logoColor=)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![Python]<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-![Django]<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
  
 
