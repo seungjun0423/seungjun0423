@@ -8,7 +8,7 @@
     1994.04.23 born in Korea <br>
     Graduated Kookmin university <br>
     Living in Seoul <br>
-    Web engineer <br>
+    Web Engineer <br>
     Want to be rational and logical person <br>
     Like reading books especially about social science and science <br>
     Interested in computer science <br> 
