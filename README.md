@@ -9,8 +9,7 @@
     Graduated Kookmin university <br>
     Living in Seoul <br>
     Web Engineer <br>
-    Want to be rational and logical person <br>
-    Like reading books especially about social science and science <br>
+    Like reading books especially about economy and science <br>
     Interested in computer science <br> 
     Learning about hardware structure <br>
     Big fan of Blockchain
