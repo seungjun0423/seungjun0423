@@ -10,7 +10,7 @@
     Living in Seoul <br>
     Web Engineer <br>
     Like reading books especially about economy and science <br>
-    Interested in computer science <br> 
+    Interested in WebAssembly <br> 
     Learning about hardware structure <br>
     Big fan of Blockchain
     
