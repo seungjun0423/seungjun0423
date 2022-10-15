@@ -2,6 +2,7 @@
 
 
 <h1> Hi, Welcome to my github!</h1>
+<br />
 
 <p>
   <em>
@@ -19,6 +20,8 @@
     </em>
   </em>
 </p>
+<br />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=seungjun0423&show_icons=true&theme=radical" />
 
 <br />
 <h2> My Tech Stack 📚 </h2>
@@ -49,9 +52,5 @@
 
 
 
-<br />
-<h2>Stats</h2>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjun0423&show_icons=true&theme=radical)
 
 
