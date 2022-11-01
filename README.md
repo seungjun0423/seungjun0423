@@ -9,7 +9,7 @@
     1994.04.23 born in Korea <br>
     Graduated Kookmin university <br>
     Living in Seoul <br>
-    Web Engineer <br>
+    Web developer <br>
     Like reading books especially about economy and science <br>
     Interested in WebAssembly <br> 
     Learning about hardware structure <br>
