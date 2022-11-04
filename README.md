@@ -12,7 +12,6 @@
     Web developer <br>
     Like reading books especially about economy and science <br>
     Interested in WebAssembly <br> 
-    Learning about hardware structure <br>
     Big fan of Blockchain
     
   </em>
