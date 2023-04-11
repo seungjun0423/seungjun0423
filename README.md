@@ -39,7 +39,6 @@
 <h3>I'm interested in </h3>
 
 ![SOLIDITY](https://img.shields.io/badge/-SOLIDITY-black?style=for-the-badge&logo=solidity&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 
