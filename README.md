@@ -31,8 +31,8 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js)
 <br/>
 ![redux](https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&logo=redux)
-![reactquery](https://img.shields.io/badge/-reactquery-FF4154?style=for-the-badge&logo=reactquery)
-![styledcomponents](https://img.shields.io/badge/-styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents)
+![reactquery](https://img.shields.io/badge/-reactquery-FF4154?style=for-the-badge)
+![styledcomponents](https://img.shields.io/badge/-styledcomponents-DB7093?style=for-the-badge)
 <br/>
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=nestjs)
