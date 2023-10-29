@@ -29,6 +29,9 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js)
+<br/>
+![redux](https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&logo=redux)
+![reactquery](https://img.shields.io/badge/-reactquery-FF4154?style=for-the-badge&logo=reactquery)
 ![styledcomponents](https://img.shields.io/badge/-styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents)
 <br/>
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
@@ -40,6 +43,7 @@
 
 <h3>I'm interested in </h3>
 
+![threedotjs](https://img.shields.io/badge/-threedotjs-000000?style=for-the-badge&logo=threedotjs)
 ![SOLIDITY](https://img.shields.io/badge/-SOLIDITY-black?style=for-the-badge&logo=solidity&logoColor=ffffff)
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 
