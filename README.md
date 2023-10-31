@@ -43,7 +43,8 @@
 
 <h3>I'm interested in </h3>
 
-![threedotjs](https://img.shields.io/badge/-threedotjs-000000?style=for-the-badge&logo=threedotjs)
+![threedotjs](https://img.shields.io/badge/-three.js-000000?style=for-the-badge&logo=threedotjs)
+![dotnet](https://img.shields.io/badge/-.net-512BD4?style=for-the-badge&logo=dotnet)
 ![SOLIDITY](https://img.shields.io/badge/-SOLIDITY-black?style=for-the-badge&logo=solidity&logoColor=ffffff)
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 
