@@ -31,6 +31,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD1100?style=for-the-badge&logo=Angular)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=nestjs)
+<br />
 ![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=for-the-badge&logo=java&logoColor=white&labelColor=%23F7DF1C&color=navy)
 ![Spring](https://img.shields.io/badge/-Spring-green?style=for-the-badge&logo=spring&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
