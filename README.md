@@ -25,7 +25,6 @@
 <br />
 <h2> My Tech Stack 📚 </h2>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-DD1100?style=for-the-badge&logo=Angular)
@@ -35,6 +34,7 @@
 ![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=for-the-badge&logo=java&logoColor=white&labelColor=%23F7DF1C&color=navy)
 ![Spring](https://img.shields.io/badge/-Spring-green?style=for-the-badge&logo=spring&logoColor=white)
 ![googlecloud](https://img.shields.io/badge/-googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![mysql](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
  
